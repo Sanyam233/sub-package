@@ -7,3 +7,7 @@ def func():
 
 def func2():
     print("test")
+
+
+def func3():
+    print("test")
